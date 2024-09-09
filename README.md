@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**Siddhi-Mhadlekar/Siddhi-Mhadlekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hello, I'm [Your Name]! 👋
 
 Welcome to my GitHub profile! Here, you'll find a collection of my projects, contributions, and various coding endeavors. 
@@ -27,21 +11,26 @@ Welcome to my GitHub profile! Here, you'll find a collection of my projects, con
 
 ## My Skills
 
-### Programming Languages
+### Programming Languages and Tools
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
-
-### Data Tools
+- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sqlite&logoColor=ffffff)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=ffffff)
+- ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=ffffff)
 - ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017B92?style=flat-square&logo=apache-airflow&logoColor=ffffff)
+- ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=ffffff)
+- ![REST API](https://img.shields.io/badge/-REST%20API-25A27E?style=flat-square&logo=api&logoColor=ffffff)
+- ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=ffffff)
+- ![LLM](https://img.shields.io/badge/-LLM-000000?style=flat-square&logo=llm&logoColor=ffffff)
+
+### Cloud Platforms and Data Tools
 - ![Databricks](https://img.shields.io/badge/-Databricks-000000?style=flat-square&logo=databricks&logoColor=ffffff)
-
-### Cloud Platforms
 - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=ffffff)
-- ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=ffffff)
 
-### Other Tools
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
+### Data Concepts
+- ![Data Modeling](https://img.shields.io/badge/-Data%20Modeling-2C3E50?style=flat-square&logo=data-modeling&logoColor=ffffff)
+- ![Data Warehousing](https://img.shields.io/badge/-Data%20Warehousing-2980B9?style=flat-square&logo=data-warehousing&logoColor=ffffff)
 
 ## My Projects
 - [Project 1](link) - A brief description.
