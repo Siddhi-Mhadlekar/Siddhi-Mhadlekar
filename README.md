@@ -20,7 +20,7 @@ Welcome to my GitHub profile! Here, you'll find a collection of my projects, con
 
 
 ## My Projects
-- _**Amazon Book Reviews Analysis**_([link](https://github.com/Siddhi-Mhadlekar/Amazon-Book-Reviews-Analysis))
+- **Amazon Book Reviews Analysis**([link](https://github.com/Siddhi-Mhadlekar/Amazon-Book-Reviews-Analysis))
   - This project aims to securely manage, streamline, and perform analysis on structured Amazon book reviews data based on various metrics.
 - **InterviewGynie**([link](https://github.com/Siddhi-Mhadlekar/InterviewGynie/tree/main))
   - The Conversational Interview Bot simulates an interview scenario where users can answer questions via audio input and receive feedback.
