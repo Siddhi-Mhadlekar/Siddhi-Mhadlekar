@@ -20,8 +20,13 @@ Welcome to my GitHub profile! Here, you'll find a collection of my projects, con
 
 
 ## My Projects
--** Amazon Book Reviews Analysis**([link](https://github.com/Siddhi-Mhadlekar/Amazon-Book-Reviews-Analysis)) - This project aims to securely manage, streamline, and perform analysis on structured Amazon book reviews data based on various metrics.
-- **InterviewGynie**([link](https://github.com/Siddhi-Mhadlekar/InterviewGynie/tree/main)) - The Conversational Interview Bot simulates an interview scenario where users can answer questions via audio input and receive feedback. The bot uses OpenAI’s Whisper for transcription and GPT-4 for response evaluation.
-- **Customer Segmentation and Recommendation System** ([link](https://github.com/Siddhi-Mhadlekar/Customer-Segmentation-and-Recommendation-System)) - This project demonstrates customer segmentation using clustering (K-Means) and product recommendation using collaborative filtering (ALS) with PySpark in a batch processing setup.
-- **Synthetic Data Generation for Machine Learning**([link](https://github.com/Siddhi-Mhadlekar/Synthetic-Data-Generation-for-Machine-Learning)) -This project leverages a cracked phone image dataset to train a Generative Adversarial Network (GAN). The GAN will be trained to generate synthetic images of cracked phone screens
+- ** Amazon Book Reviews Analysis**([link](https://github.com/Siddhi-Mhadlekar/Amazon-Book-Reviews-Analysis))
+  This project aims to securely manage, streamline, and perform analysis on structured Amazon book reviews data based on various metrics.
+- **InterviewGynie**([link](https://github.com/Siddhi-Mhadlekar/InterviewGynie/tree/main))
+  The Conversational Interview Bot simulates an interview scenario where users can answer questions via audio input and receive feedback. The bot uses OpenAI’s Whisper for
+  transcription and GPT-4 for response evaluation.
+- **Customer Segmentation and Recommendation System** ([link](https://github.com/Siddhi-Mhadlekar/Customer-Segmentation-and-Recommendation-System))
+  This project demonstrates customer segmentation using clustering (K-Means) and product recommendation using collaborative filtering (ALS) with PySpark in a batch processing setup.
+- **Synthetic Data Generation for Machine Learning**([link](https://github.com/Siddhi-Mhadlekar/Synthetic-Data-Generation-for-Machine-Learning))
+  This project leverages a cracked phone image dataset to train a Generative Adversarial Network (GAN). The GAN will be trained to generate synthetic images of cracked phone screens
 
